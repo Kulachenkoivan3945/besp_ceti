@@ -183,7 +183,7 @@ namespace besp_ceti
         {
 
             double m1 = 0;
-            int a = 0;
+   
             Random rnd = new Random();
            
                 for (int i = 0; i < t; i++)
@@ -193,7 +193,7 @@ namespace besp_ceti
                     else
                     {
                         e_mas[i] = 1;
-                        a++;
+                        
                     }
               
             }
